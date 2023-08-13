@@ -1,4 +1,6 @@
 Hello
+Salut
 Hola
 World
+Monde
 Mundo
